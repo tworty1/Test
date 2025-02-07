@@ -1,0 +1,37 @@
+h1 {
+    color: black;
+    font-size: 70px;
+    font-family: 'Century Gothic', sans-serif;
+    font-weight: bold;  
+    text-align: center; font-variant: small-caps;text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+p { color: black;
+    font-family: 'Century Gothic', sans-serif;
+    font-weight: bold;  
+    text-align: center;text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-size: 30px;
+    color: #00aeae
+}
+
+body {
+    background-image: url('dec3daaccfdd30a76ba1d37e2a2e9af9.jpg');
+    background-size: cover; 
+    overflow: scroll;
+    
+}
+
+img {
+    border-radius: 30px;
+    display: block; 
+    margin: 0 auto;
+}
+figcaption { 
+    text-align: center; 
+    font-family: Century Gothic, sans-serif;
+    font-weight: bold;
+    color: #2f2f2f;
+    font-size: 25px;
+
+
+
