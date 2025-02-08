@@ -11,7 +11,7 @@ h1 {
 p { color: black;
     font-family: 'Century Gothic', sans-serif;
      
-    text-align: right;
+    text-align: center;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     font-size: 30px;
     color: #2f2f2f;
@@ -44,8 +44,4 @@ img {
 
 }
 
-.grid img {
-    
-    border-radius: 30px;
-}
 
